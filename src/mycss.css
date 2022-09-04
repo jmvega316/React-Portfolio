@@ -1,0 +1,26 @@
+.me {
+    width: 500px;
+    height: 500px;
+    margin-left:700px;
+    margin-top: 15px;
+    border: 5px;
+    border-style: solid;
+}
+
+.top {
+    font-size: x-large;
+    font-style: normal;
+    text-align: center;
+}
+
+.top2{
+    font-size: x-large;
+    font-style: normal;
+    text-align: center;
+}
+.likes{
+    width: 300px;
+    margin-top: 20px;
+    border: 5px;
+    border-style: solid;
+}
