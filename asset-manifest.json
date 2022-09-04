@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/css/main.894cdb82.css",
+    "main.js": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/js/main.36223ffa.js",
+    "static/js/787.826aa92d.chunk.js": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/js/787.826aa92d.chunk.js",
+    "static/media/IMG_5004.jpeg": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/media/IMG_5004.31445338c30f10678efc.jpeg",
+    "static/media/IMG_2880.JPG": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/media/IMG_2880.98a3fd7a1a4f5efbeb90.JPG",
+    "static/media/IMG_2876.JPG": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/media/IMG_2876.3028697428fdaad270a4.JPG",
+    "index.html": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/index.html",
+    "main.894cdb82.css.map": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/css/main.894cdb82.css.map",
+    "main.36223ffa.js.map": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/js/main.36223ffa.js.map",
+    "787.826aa92d.chunk.js.map": "/%7Bjmvega316%7D.github.io/%7BReact-Portfolio%7D/static/js/787.826aa92d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.894cdb82.css",
+    "static/js/main.36223ffa.js"
+  ]
+}
